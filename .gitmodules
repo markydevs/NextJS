@@ -1,0 +1,9 @@
+[submodule "routing"]
+	path = routing
+	url = https://github.com/markydevs/routing
+[submodule "rendering"]
+	path = rendering
+	url = https://github.com/markydevs/rendering
+[submodule "route-handlers"]
+	path = route-handlers
+	url = https://github.com/markydevs/route-handlers
